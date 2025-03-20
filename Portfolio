@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio of Vikas Choudhari</title>
+</head>
+<body style="background-color:rgba(4, 59, 143, 0.822);">
+    <header>
+        <h1 style="text-align:center;font-size: xx-large ;background-color: rgb(161, 93, 47);font-weight: 5000;">Vikas Bhawarlal Choudhari</h1>
+        <p style="text-align:center;font-size: x-large;">Home | Projects | Blogs | Contact</p>
+    </header>
+    <h2 style="text-align:center;">Web Developer and Designer</h2>
+    <table border="1" width="100%">
+        <tr>
+            <td>
+                <h3>Portfolio Highlights</h3>
+                <ul>
+                    <li>Responsive HTML Layout</li>
+                    <li>Pursuing Btech in Computer Engineering in MITAOE</li>
+                    <li>Interactive Form Design</li>
+                    <li>Participated in evolve saas hacathon</li>
+                    <li>Working on a design thinking project</li>
+                </ul>
+            </td>
+            <td>
+                <h3>Career Achievements</h3>
+                <p>Certification in basics of kali linux<br><br><a href="#">View My LinkedIn Profile</a></p>
+                <p>Skill Certification from CBSE Board in Information Technology.</p>
+                <h3>Community Involvement</h3>
+                Attended MAHATech 2025 Trade Show in Shivajinagar.<br>
+                <a href="https://github.com/Vikas7350">Visit My GitHub</a></p>
+                <p> Beginner in programing ,i have done some basic programs.</p>
+            </td>
+            <td>
+                <h3>Academic Qualifications</h3>
+                <p>B.Tech (Computer Engineering) from mitaoe</p>
+                <p>Skills</p>
+                <ul>
+                    <li>C</li>
+                    <li>python</li>
+                    <li>HTML and CSS</li>
+                    <li>Basics of Java</li>
+                    <li>Student Office (Excel,Word,Powerpoint)</li>
+                    <li>basics of linux programing</li>
+                    <li>Fast typing</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+    <p style="font-size: larger;">My Contact Details:</p>
+    <ul style="font-size: larger;">
+        <li>Number: 8799956399</li>
+        <li> Email id : 202401040012@mitaoe.ac.in</li>
+    </ul>
+    </p>
+    <h3>Peer Reviews</h3>
+    <table border="2" width="100%">
+        <tr>
+            <td>Vikas Choudhari consistently delivers high-quality, innovative solutions that exceed project expectations. </td>
+            <td>Vikas Choudhari is known for his precise attention to detail and his ability to mentor younger developers. </td>
+            <td>Vikas can identify the problem very fast and can solve it very fast.
+            </td>
+        </tr>
+    </table>
+    <img src="https://img.lovepik.com/photo/45015/7638.jpg_wh860.jpg"
+    <footer style="text-align:center;">
+        © [2025] All rights reserved by Vikas Choudhari
+    </footer>
+</body>
+</html>
